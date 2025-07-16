@@ -1,2 +1,2 @@
-user_input = input("Please enter something")
-print("You entered:", user_input)
+user_name = input("Please enter username: ")
+print("You entered:", user_name)
